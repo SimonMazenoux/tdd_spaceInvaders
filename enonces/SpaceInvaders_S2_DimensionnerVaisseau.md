@@ -1,4 +1,4 @@
-# Space Invaders - Fonctionnalité n°2 : Dimensionner le vaiseau
+# Space Invaders - Fonctionnalité n°2 : Dimensionner le vaisseau
 
 Actuellement, nous disposons d'un espace de jeu et d'un vaisseau qui sait se déplacer vers la droite ou vers la gauche dans cet espace de jeu ... Il est temps de donner la possibilité au vaisseau de *tirer un missile* c-a-d de créer et positionner un objet missile au dessus de vaisseau. Dans l'état actuel du code, cela donnerait quelque chose de la sorte :
 <img src="images/vaisseauMissile_sansDimension.png" alt="tirer un missile depuis le vaisseau sans dimension" width="100"> ...
